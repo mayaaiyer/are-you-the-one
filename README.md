@@ -1,0 +1,7 @@
+Recently at Georgia Tech, my roommates started watching a reality TV show called Are You the One? Inspired by the frustration I felt watching the contestants try to win, I created a program to solve the show.
+
+"Are You the One?, sometimes abbreviated as AYTO?, is an American reality television series on MTV, in which young singles try to find love. A group of men and women are secretly paired into couples by producers, via a matchmaking algorithm. Then, while living together, the contestants try to identify all of these "perfect matches." If they succeed, the entire group shares a prize of up to $1 million.
+
+Over the course of each season, the contestants go on dates with partners determined by competitions (or, in the seventh season only, by the "fate button"), and have the opportunity to learn in the "truth booth" if a given couple is a correct match. Once the truth booth confirms a perfect match, that couple will go to the honeymoon suite and will automatically be paired up for the remainder of the match ceremonies. At the end of each episode, the contestants pair up in a "matching ceremony" and learn how many perfect matches they have, but not which matches are correct. From season 3 onward, the prize was reduced any time that the house failed to identify any matches other than those already confirmed via the truth booth." (via Wikipedia)
+
+Using all this information, you can solve who each individuals most likely match is.
